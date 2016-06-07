@@ -1,4 +1,6 @@
-Purpose:
+League of Legends Lazy Lookup
+
+Method:
 1. Copy text from LoL client pre game lobby.
 2. Parse into valid url for multi-search on na.op.gg
 3. Go to parsed url.
