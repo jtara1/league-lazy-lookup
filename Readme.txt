@@ -10,5 +10,5 @@ Instructions:
 2. Run league-lazy-lookup.exe right after you enter the pre game lobby.
 
 Flaws:
-- resizing LoL client window will offset relative coordinates (predefined)
+- resizing LoL client window will offset coordinates (predefined)
 - it will fail to grab proper text from chat if too many people start typing before you run it
