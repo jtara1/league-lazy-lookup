@@ -3,6 +3,9 @@ League of Legends Lazy Lookup
 Purpose:
 - Get text from champion select pre game lobby and use multi-search function on op.gg to check champion stats and winrates of fellow summoners in lobby.
 
+Demo Video:
+https://youtu.be/zZuT7Cjztdw
+
 Method:
 1. Copy text from LoL client pre game lobby.
 2. Parse into valid url for multi-search on na.op.gg
