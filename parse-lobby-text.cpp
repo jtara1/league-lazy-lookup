@@ -3,11 +3,11 @@
 #include <sstream>
 #include <string>
 #include <set>
+#include <vector>
 #include <algorithm>
-#include <ctime>
+//#include <ctime>
 
 using namespace std;
-
 
 // unused function in favor of find() and erase() member functions of string, spaces acceptable for url anyways
 string removeSpaces(string name) {
@@ -40,13 +40,13 @@ string opggMultiQueryFormat(set<string> names) {
 
 void saveToFile(string file_name, string contents) {
     ofstream outfile;
-    outfile.open(file_name);
+    outfile.open(file_name.c_str());
     outfile << contents;
     outfile.close();
 }
 
 int main(int argc, char *argv[]) {
-    clock_t init_time = clock(); // used to measure compile time
+    //clock_t init_time = clock(); // used to measure compile time
 
     ifstream myfile;
     myfile.open(argv[1]);
