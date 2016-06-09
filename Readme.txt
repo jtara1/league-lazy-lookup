@@ -12,7 +12,7 @@ Method:
 3. Go to parsed url.
 
 Instructions:
-1. Download and extract.
+1. Download .exe files from release section here or compile the autoit file and cpp file yourself.
 2. Run league-lazy-lookup.exe right after you enter the pre game lobby.
 
 Flaws:
