@@ -13,7 +13,7 @@ Method:
 
 Instructions:
 1. Download .exe files from release section here or compile the autoit file and cpp file yourself.
-2. Run league-lazy-lookup.exe right after you enter the pre game lobby.
+2. Run league-lazy-lookup.exe right after you enter the pre game lobby (do not move mouse or press keys until script ends ~5 seconds).
 
 Flaws:
 - resizing LoL client window will offset coordinates (predefined)
