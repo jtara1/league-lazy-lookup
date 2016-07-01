@@ -4,7 +4,7 @@ Purpose:
 
 Demo Videos:
 v2.0:
-https://youtu.be/4ByqFbM8SH4
+*Will upload later
 v1.0 (functions differently from newest version):
 https://youtu.be/0986uY2IaDg
 
