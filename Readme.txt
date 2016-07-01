@@ -5,8 +5,8 @@ Purpose:
 
 Demo Videos:
 v2.0:
-*Will upload later
-v1.0 (functions differently from newest version):
+https://youtu.be/B1YU3X32vyg
+v1.0:
 https://youtu.be/0986uY2IaDg
 
 Method:
@@ -30,8 +30,12 @@ Requirements:
 - League of Legends
 - Visual Studio 2015 x86 & x64 runtimes for OCR (Tesseract) (download here: https://www.microsoft.com/en-us/download/details.aspx?id=48145)
 
-Notes:
-- Tested on two different Windows 8 computers, it worked as expected
+Changelog:
+v2.0:
+- Added the functionality that can detect if player is in normal draft or ranked within 10 seconds or so
+
+v1.0:
+- initial commit, gets text from chat, parses into url for multi-search on op.gg, goes to that url
 
 Flaws:
 - resizing LoL client window will offset coordinates (predefined) (for cropping of screenshot & chat box coordinates)
