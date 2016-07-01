@@ -1,6 +1,7 @@
 League of Legends Lazy Lookup
 Purpose:
-- Get text from champion select pre game lobby and use multi-search function on op.gg to check champion stats and winrates of fellow summoners in lobby.
+1. Detect if player is in champion select for ranked or normal draft if so then
+2. Get text from champion select chat and use multi-search function on op.gg to check champion stats and winrates of fellow summoners in lobby.
 
 Demo Videos:
 v2.0:
