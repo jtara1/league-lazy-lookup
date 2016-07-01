@@ -1,5 +1,4 @@
 League of Legends Lazy Lookup
-
 Purpose:
 - Get text from champion select pre game lobby and use multi-search function on op.gg to check champion stats and winrates of fellow summoners in lobby.
 
