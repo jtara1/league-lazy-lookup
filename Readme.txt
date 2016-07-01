@@ -3,6 +3,9 @@ Purpose:
 - Get text from champion select pre game lobby and use multi-search function on op.gg to check champion stats and winrates of fellow summoners in lobby.
 
 Demo Videos:
+v2.0:
+https://youtu.be/4ByqFbM8SH4
+v1.0 (functions differently from newest version):
 https://youtu.be/0986uY2IaDg
 
 Method:
