@@ -1,4 +1,4 @@
-Func ClickAndDragAtoB($iTitle, $iCoords, $iButton = "left", $iSpeed = "3", $iXoffset = 0, $iYoffset = 0)
+Func ClickAndDragAtoB($iTitle, $iCoords, $iButton = "left", $iSpeed = "0", $iXoffset = 0, $iYoffset = 0)
 ; use $iYoffset = -29 if window border is altering relative window coords
 WinActivate($iTitle)
 Local $iOriginal = Opt("MouseCoordMode", 0)             ;Get the current MouseCoordMode, set MouseCoordMode to relative to window

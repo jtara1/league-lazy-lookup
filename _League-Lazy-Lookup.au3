@@ -2,7 +2,7 @@
 #include <ClickAndDragAtoB.au3>
 
 ; Global variables
-Global $defaultOption = AutoItSetOption("SendKeyDelay", 150)
+Global $defaultOption = AutoItSetOption("SendKeyDelay", 100)
 Global $program_title = "League Lazy Lookup"
 Global $title = "PVP.net Client"
 
