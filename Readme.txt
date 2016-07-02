@@ -31,6 +31,10 @@ Requirements:
 - Visual Studio 2015 x86 & x64 runtimes for OCR (Tesseract) (download here: https://www.microsoft.com/en-us/download/details.aspx?id=48145)
 
 Changelog:
+v2.1:
+- Increased mouse speed when selecting chat box text: $iSpeed 3 => 0
+- Lowered SendKeyDelay 150 => 100
+
 v2.0:
 - Added the functionality that can detect if player is in normal draft or ranked within 10 seconds or so
 
